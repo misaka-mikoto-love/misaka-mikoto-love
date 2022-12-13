@@ -5,4 +5,4 @@
 misaka-mikoto-love/misaka-mikoto-love is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![roll's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaka-mikoto-love)](https://github.com/anuraghazra/github-readme-stats)
+[![DES's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaka-mikoto-love)](https://github.com/anuraghazra/github-readme-stats)
